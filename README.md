@@ -59,11 +59,19 @@ Custom-built CRM platform
 
 
 
-## 📫 Connect With Me  
+## 📫 Connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-ramzan-bb6653243)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:iqra046cs@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://iqraramzan.vercel.app) 
+<p>
+  <a href="https://linkedin.com/in/iqra-ramzan-bb6653243" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:iqra046cs@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://iqraramzan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+</p>
 
 
 ---
