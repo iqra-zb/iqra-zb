@@ -18,7 +18,7 @@ I build scalable SaaS systems, high-performance APIs, and AI-powered application
 | **Integrations** | ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase) ![Stripe](https://img.shields.io/badge/Stripe-purple?style=flat-square&logo=stripe) ![Zoho Sign](https://img.shields.io/badge/Zoho_Sign-red?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai) ![Google Maps](https://img.shields.io/badge/Google_Maps-API-red?style=flat-square&logo=googlemaps) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git) ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman) ![Cron Jobs](https://img.shields.io/badge/Cron-Jobs-blue?style=flat-square) ![Queues](https://img.shields.io/badge/Queues-green?style=flat-square) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![AWS S3](https://img.shields.io/badge/AWS-S3-orange?style=flat-square&logo=amazon-aws) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions) ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel) ![Netlify](https://img.shields.io/badge/Netlify-blue?style=flat-square&logo=netlify) |
-| **Performance** | ![Caching](https://img.shields.io/badge/Caching-Strategy-green?style=flat-square) ![Logging](https://img.shields.io/badge/Logging-black?style=flat-square) ![Debugging](https://img.shields.io/badge/Debugging-red?style=flat-square) ![Performance](https://img.shields.io/badge/Performance-Tuning-blue?style=flat-square) |
+
 
 ---
 
@@ -51,13 +51,6 @@ Custom-built CRM platform
 → Admin panel, user tracking, REST APIs  
 → Connected mobile + web applications  
   
-
-## 🌱 Currently Exploring  
-
-- 🤖 Building intelligent systems with **Generative AI & Agentic Architectures**  
-- ⚙️ Engineering **scalable SaaS platforms (multi-tenant, high-performance systems)**  
-
-
 
 ## 📫 Connect with me!
 
