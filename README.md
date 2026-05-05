@@ -1,95 +1,95 @@
 # Hi, I'm Iqra Ramzan 👋  
 🚀 Senior Full Stack Developer | AI Integration Specialist  
 
-I build production-ready SaaS systems that scale under real-world traffic — focusing on performance, scalability, and real business impact.
+I build scalable SaaS systems, high-performance APIs, and AI-powered applications used by real users in production.
 
 ---
 
-## ⚡ About Me  
-
-💡 4+ years building scalable SaaS products  
-🚀 10+ production systems shipped for global clients  
-📈 Improved API performance by up to 40%  
-🏗️ Strong focus on clean architecture & maintainable systems  
-🤖 AI integrations using OpenAI & LLMs in real products  
-🌍 Remote-first engineer working with international teams  
-
----
-
-## 🚀 Tech Stack  
-
-### 🧠 Backend  
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)  
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)  
+## 🛠️ My Technical Arsenal  
 
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
 
-### 🤖 AI & Tools  
+---
+
+### ⚙️ Backend  
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
+
+---
+
+### 🗄️ Database & Caching  
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)  
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)  
+
+---
+
+### 🤖 DevOps & AI  
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)  
 ![Stripe](https://img.shields.io/badge/Stripe-purple?style=for-the-badge&logo=stripe)  
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)  
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)  
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)  
 
 ---
 
-## 🚀 Featured Projects  
+## 💼 Key Projects  
 
-### 🔹 DriniHotel  
-B2B/B2C travel platform handling **1,000+ monthly bookings**  
+### 🏨 DriniHotel  
+Scalable B2B/B2C travel platform  
+→ Handles **1,000+ monthly bookings**  
 → Fully automated workflows  
-→ Built with Laravel, React & Stripe  
+→ Laravel + React + Stripe  
 
 ---
 
-### 🔹 CatalogPoint  
-Multi-tenant SaaS store builder with billing system  
+### 🛍️ CatalogPoint  
+Multi-tenant SaaS store builder  
+→ Integrated Stripe billing  
 → Improved client efficiency by **30%**  
-→ Stripe integration + scalable architecture  
 
 ---
 
-### 🔹 AI Chatbot (OpenAI)  
-Production-ready chatbot system  
-→ Automated end-to-end user workflows  
-→ Integrated LLMs into real SaaS environment  
+### 🤖 AI Chatbot System  
+Production-ready OpenAI-powered chatbot  
+→ Automated user workflows end-to-end  
+→ Used in real SaaS environments  
 
 ---
 
-### 🔹 CRM System (ICRAPP)  
-Custom CRM built from scratch  
-→ User activity tracking, admin controls  
-→ REST APIs powering mobile + web apps  
+### 📊 CRM System (ICRAPP)  
+Custom-built CRM platform  
+→ Admin panel, user tracking, REST APIs  
+→ Connected mobile + web applications  
+
+---
+
+## 🌱 Currently Exploring  
+
+🧠 Advanced AI integrations & agentic workflows  
+🏗️ Scalable multi-tenant SaaS architectures  
+⚡ Performance optimization & system design at scale  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-## 💼 What I Do  
+## 📫 Connect With Me  
 
-✔ Build scalable SaaS platforms  
-✔ Design high-performance APIs  
-✔ Optimize backend systems for speed & reliability  
-✔ Integrate AI into real-world applications  
-✔ Architect clean, maintainable systems  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-ramzan-bb6653243L)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:iqra046cs@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://iqraramzan.vercel.app)  
 
 ---
 
-## 📫 Let's Connect  
-
-📧 Email: iqra046cs@gmail.com  
-💼 LinkedIn: (add your link)  
-🌐 Portfolio: (add if you have)  
-
----
-
-⭐ *I focus on building systems that are not just functional — but scalable, efficient, and production-ready.*
+⭐ *I focus on building systems that are fast, scalable, and production-ready — not just prototypes.*
