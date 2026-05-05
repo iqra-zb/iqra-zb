@@ -1,13 +1,15 @@
-Hey there! I'm Tallha Mushtaq 👋
-🚀 Senior MERN Stack Developer | Technical Team Lead | AI Integration Expert
-I'm a Senior MERN Stack Developer with 4+ years of experience architecting and leading high-performance full-stack web applications. I specialize in building scalable digital solutions that serve 15,000+ monthly active users and deliver real business value through technical excellence.
+
+Hey there! I'm Iqra Ramzan 👋
+🚀 Senior Full Stack Developer | AI Integration Specialist
+
+I’m a Senior Full Stack Developer with 4+ years of experience building and scaling high-performance web applications. I specialize in developing robust SaaS platforms that serve 15,000+ monthly active Bookings, focusing on performance, scalability, and real business impact.
 
 ⚡ Professional Highlights
-🏆 Top Rated Plus Software Engineer on Upwork.
-⚡ Performance Optimization: Reduced load times by 38% through advanced caching and lazy loading.
-👥 Leadership: Led and mentored teams of 5+ developers, reducing production bugs by 30%.
-🤖 AI-Driven: Expert in integrating LLMs (Claude, OpenAI) into SaaS products for smart automation.
-🌍 Remote Veteran: Extensive experience working with international teams in Switzerland, Norway, Dubai, and USA.s
+🚀 Built and shipped 10+ production SaaS systems across travel, e-commerce, healthcare, and multi-tenant platforms for global clients
+📈 Improved API performance by 40% through deep MySQL query optimization, indexing, and backend tuning
+🏗️ Architected scalable platforms like DriniHotel (1,000+ monthly bookings) and CatalogPoint (multi-tenant SaaS + Stripe, 30% efficiency gain)
+🤖 Delivered AI-powered features (OpenAI) in production, automating real user workflows at scale
+⚡ Implemented high-performance systems using Redis, queues, and WebSockets for real-time features and background processing
 
 <!--
 **iqra-zb/iqra-zb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
