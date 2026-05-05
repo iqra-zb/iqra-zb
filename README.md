@@ -7,72 +7,18 @@ I build scalable SaaS systems, high-performance APIs, and AI-powered application
 
 
 
-## 🛠️ Technical Skills  
+## 🛠️ My Technical Arsenal  
 
-### 💻 Frameworks & Languages  
-![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strong-3178C6?style=for-the-badge&logo=typescript)
-
----
-
-### ⚙️ Backend & API Development  
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?style=for-the-badge&logo=graphql)
-![API Design](https://img.shields.io/badge/API-Design-green?style=for-the-badge)
-![Pagination](https://img.shields.io/badge/API-Pagination-orange?style=for-the-badge)
-
----
-
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react)
-![jQuery](https://img.shields.io/badge/jQuery-Classic-0769AD?style=for-the-badge&logo=jquery)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
----
-
-### 🗄️ Databases & Caching  
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis)
-
----
-
-### 🔗 Integrations  
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
-![Stripe](https://img.shields.io/badge/Stripe-purple?style=for-the-badge&logo=stripe)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-API-red?style=for-the-badge&logo=googlemaps)
-
----
-
-### 🧰 Tools & Workflow  
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman)
-![Cron Jobs](https://img.shields.io/badge/Cron-Jobs-blue?style=for-the-badge)
-![Queues](https://img.shields.io/badge/Queues-Processing-green?style=for-the-badge)
-
----
-
-### ☁️ DevOps & Cloud  
-![Docker](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker)
-![AWS S3](https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazon-aws)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify)
-
----
-
-### ⚡ Performance & Optimization  
-![Caching](https://img.shields.io/badge/Caching-Strategy-green?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-Expert-red?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance-Optimization-blue?style=for-the-badge)
-![Logging](https://img.shields.io/badge/Logging-Monitoring-black?style=for-the-badge)
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat-square&logo=php) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery) |
+| **API Development** | ![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql) ![API Design](https://img.shields.io/badge/API-Design-green?style=flat-square) ![Versioning](https://img.shields.io/badge/API-Versioning-orange?style=flat-square) ![Pagination](https://img.shields.io/badge/Pagination-yellow?style=flat-square) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat-square&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis) |
+| **Integrations** | ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase) ![Stripe](https://img.shields.io/badge/Stripe-purple?style=flat-square&logo=stripe) ![Zoho Sign](https://img.shields.io/badge/Zoho_Sign-red?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai) ![Google Maps](https://img.shields.io/badge/Google_Maps-API-red?style=flat-square&logo=googlemaps) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git) ![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman) ![Cron Jobs](https://img.shields.io/badge/Cron-Jobs-blue?style=flat-square) ![Queues](https://img.shields.io/badge/Queues-green?style=flat-square) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![AWS S3](https://img.shields.io/badge/AWS-S3-orange?style=flat-square&logo=amazon-aws) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions) ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel) ![Netlify](https://img.shields.io/badge/Netlify-blue?style=flat-square&logo=netlify) |
+| **Performance** | ![Caching](https://img.shields.io/badge/Caching-Strategy-green?style=flat-square) ![Logging](https://img.shields.io/badge/Logging-black?style=flat-square) ![Debugging](https://img.shields.io/badge/Debugging-red?style=flat-square) ![Performance](https://img.shields.io/badge/Performance-Tuning-blue?style=flat-square) |
 
 ---
 
@@ -119,7 +65,7 @@ Custom-built CRM platform
 
 ---
 
-## 📫 Connect With Me  
+
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-ramzan-bb6653243L) 
