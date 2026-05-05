@@ -1,4 +1,13 @@
-## Hi there 👋
+Hey there! I'm Tallha Mushtaq 👋
+🚀 Senior MERN Stack Developer | Technical Team Lead | AI Integration Expert
+I'm a Senior MERN Stack Developer with 4+ years of experience architecting and leading high-performance full-stack web applications. I specialize in building scalable digital solutions that serve 15,000+ monthly active users and deliver real business value through technical excellence.
+
+⚡ Professional Highlights
+🏆 Top Rated Plus Software Engineer on Upwork.
+⚡ Performance Optimization: Reduced load times by 38% through advanced caching and lazy loading.
+👥 Leadership: Led and mentored teams of 5+ developers, reducing production bugs by 30%.
+🤖 AI-Driven: Expert in integrating LLMs (Claude, OpenAI) into SaaS products for smart automation.
+🌍 Remote Veteran: Extensive experience working with international teams in Switzerland, Norway, Dubai, and USA.s
 
 <!--
 **iqra-zb/iqra-zb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
