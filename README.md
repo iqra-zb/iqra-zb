@@ -9,7 +9,7 @@ I’m a Senior Full Stack Developer with 4+ years of experience building and sca
 📈 Improved API performance by 40% through deep MySQL query optimization, indexing, and backend tuning
 🏗️ Architected scalable platforms like DriniHotel (1,000+ monthly bookings) and CatalogPoint (multi-tenant SaaS + Stripe, 30% efficiency gain)
 🤖 Delivered AI-powered features (OpenAI) in production, automating real user workflows at scale
-⚡ Implemented high-performance systems using Redis, queues, and WebSockets for real-time features and background processing
+⚡ Implemented high-performance systems using Redis, queues, and WebSockets for real-time features and background processing.
 
 <!--
 **iqra-zb/iqra-zb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
