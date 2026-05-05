@@ -7,7 +7,7 @@ I build scalable SaaS systems, high-performance APIs, and AI-powered application
 
 
 
-## 🛠️ My Technical Arsenal  
+## 🛠️ My Technical Expertise 
 
 | Category | Technologies |
 |----------|-------------|
@@ -50,27 +50,20 @@ Production-ready OpenAI-powered chatbot
 Custom-built CRM platform  
 → Admin panel, user tracking, REST APIs  
 → Connected mobile + web applications  
-
----
+  
 
 ## 🌱 Currently Exploring  
 
-🧠 Advanced AI integrations & agentic workflows  
-🏗️ Scalable multi-tenant SaaS architectures  
-⚡ Performance optimization & system design at scale  
+- 🤖 Building intelligent systems with **Generative AI & Agentic Architectures**  
+- ⚙️ Engineering **scalable SaaS platforms (multi-tenant, high-performance systems)**  
 
----
-
-
-
----
 
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-ramzan-bb6653243L) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-ramzan-bb6653243)  
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:iqra046cs@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://iqraramzan.vercel.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://iqraramzan.vercel.app)   
 
 
 ---
